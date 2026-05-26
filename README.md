@@ -1,12 +1,30 @@
-- 👋 Hi, I’m Awalou Massaoudou </@professeur01>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React, React Native, NextJs C#, .Net
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Hi, I’m Awalou Massaoudou (@professeur01)
 
-<!---
-professeur01/professeur01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about creating high-impact, scalable, user-centric digital solutions. I like designing tools that solve real-life, everyday problems, from lightweight system utilities to large-scale web applications.
+
+---
+
+### 🛠️ Technologies & Skills
+
+**Frontend & Mobile**
+![React](https://shields.io)
+![React Native](https://shields.io)
+![Next.js](https://shields.io)
+
+**Backend & Architecture**
+![Node/Express](https://shields.io)
+![Django](https://shields.io)
+![Python](https://shields.io)
+
+---
+
+### ⚡ My Featured Projects
+
+* 📋 **[copaste](https://github.com)** A standalone, lightweight clipboard manager written in Python. It memorizes your last 5 copied texts in the background to boost your daily productivity.
+
+---
+
+### 📫 How can I contact or collaborate?
+
+* **LinkedIn :** [www.linkedin.com/in/awalou-massaoudou-13b9901b6]
+* **My Portfolio :** [awal.website]
